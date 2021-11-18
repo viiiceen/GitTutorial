@@ -1,9 +1,5 @@
-Esto es solo una linea de texto para comentar que empiezo a probar Esto
+I´ve learned how to use Github 
 
-Seguimos cambiando cosas
+This is my first repository, ordered and with sense so... 
 
-texto alternativo 
-
-mejoras to locas 
-
-potatoes
+Hello World! 
